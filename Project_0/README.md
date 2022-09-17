@@ -3,10 +3,10 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Описание проекта)  
-[2. Какой кейс решаем?](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Какой кейс решаем)  
-[3. Краткая информация о данных](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Краткая информация о данных  
-[4. Этапы работы](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Этапы работы)
+[1. Описание проекта](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Этапы-работы)
 [5. Выводы](https://github.com/Konstantin65349/sf_homework_ds/tree/main/Project_0/README.md#Выводы)
 
 
