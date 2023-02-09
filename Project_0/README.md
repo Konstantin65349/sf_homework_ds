@@ -1,16 +1,16 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Какой-кейс-решаем)  
+[4. Этапы работы над проектом](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Результат)    
+[6. Выводы](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?    
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -31,19 +31,19 @@
 3. Написали функцию которая проверяет 1000 раз и выводит за сколько попыток в среднем было угадано число.
 4. Внесли изменения для того что бы функция находила число в среднем менее чем за 20 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 Функция угадывает число в среднем за 6 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 Задача была выполнена. Функция угадывает число за 6 попыток. весь диапазон чисел делиться на 2 и таким методом получаеться найти загаданое число намного быстрее. 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Konstantin65349/sf_homework_ds/blob/main/Project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
